@@ -35,6 +35,7 @@ with st.sidebar:
     openrouter_key = st.text_input("OpenRouter API Key", type="password")
     
     # Generate button in sidebar
+    st.divider
     generate_clicked = st.button("🔄 Generate Analysis", use_container_width=True)
 
 # ----------------------------
