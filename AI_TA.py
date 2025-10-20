@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"  # 👈 This makes the main area wide
 )
 
-model = "openai/gpt-oss-20b:free"
+model = "alibaba/tongyi-deepresearch-30b-a3b:free"
 
 # ----------------------------
 # Initialize session state
