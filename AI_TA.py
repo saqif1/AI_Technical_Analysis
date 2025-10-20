@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"  # 👈 This makes the main area wide
 )
 
-model = "meta-llama/llama-3.3-8b-instruct:free"
+model = "openai/gpt-oss-20b:free"
 
 # ----------------------------
 # Initialize session state
