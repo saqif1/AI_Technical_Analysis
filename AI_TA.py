@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"  # 👈 This makes the main area wide
 )
 
-model = "nvidia/nemotron-nano-9b-v2:free"
+model = "deepseek/deepseek-r1-0528-qwen3-8b:free"
 
 # ----------------------------
 # Initialize session state
