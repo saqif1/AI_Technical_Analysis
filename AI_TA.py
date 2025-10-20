@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"  # 👈 This makes the main area wide
 )
 
-model = "deepseek/deepseek-r1:free"
+model = "tngtech/deepseek-r1t2-chimera:free"
 
 # ----------------------------
 # Initialize session state
