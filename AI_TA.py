@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"  # 👈 This makes the main area wide
 )
 
-model = "deepseek/deepseek-chat-v3.1:free"
+model = "deepseek/deepseek-v3.2-exp"
 
 # ----------------------------
 # Initialize session state
