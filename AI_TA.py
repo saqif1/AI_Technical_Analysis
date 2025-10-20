@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"  # 👈 This makes the main area wide
 )
 
-model = "alibaba/tongyi-deepresearch-30b-a3b:free"
+model = "nvidia/nemotron-nano-9b-v2:free"
 
 # ----------------------------
 # Initialize session state
